@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534644639265",
+    "firebase_url": "https://messagingproject-e69bc.firebaseio.com",
+    "project_id": "messagingproject-e69bc",
+    "storage_bucket": "messagingproject-e69bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534644639265:android:8db8eda0428c7c14f2c560",
+        "android_client_info": {
+          "package_name": "com.shivku.messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534644639265-ccu54a9j2tte2tcsuoqc8km9k0h6o8c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwRwsmCSoze2gdDz7v-k7ipPsjaRoA12I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534644639265-ccu54a9j2tte2tcsuoqc8km9k0h6o8c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
